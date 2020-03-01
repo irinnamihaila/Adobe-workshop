@@ -55,7 +55,7 @@ public class Main {
 
         final String databaseURL = "jdbc:mysql://localhost:3306/test_db";
         final String user = "root";
-        final String password = "";
+        final String password = "welcome123";
 
         testInsertToDb(databaseURL, user, password, adobe);
     }
